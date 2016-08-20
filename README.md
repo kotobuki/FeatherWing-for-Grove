@@ -2,6 +2,8 @@
 
 A bridge between the [**Grove**](http://www.seeedstudio.com/wiki/Category:Grove) family by the Seeed Studio and [**Feather**](https://www.adafruit.com/feather) by the Adafruit Industries.
 
+![FeatherWing_for_Grove](FeatherWing_for_Grove.jpg)
+
 ## Bill of Materials
 
 |Part/Designator|Manufacture Part Number/Seeed SKU|Quantity|
